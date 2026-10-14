@@ -23,3 +23,16 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 ---
 
 >  **Certificate Verification:** You can view my verified certificate or credentials [here](https://github.com/justiceerickson/Mycc--certificates-/blob/main/Net%20I%20Cert%208.2026%20180.pdf).
+
+<br />
+
+| Certificate Details | Summary |
+| :--- | :--- |
+| **Institution** | [MyComputerCareer](https://www.mycomputercareer.edu/) |
+| **Program/Course** | ** |
+| **Date Completed** | ** |
+| **Key Skills Acquired** |  |
+
+---
+
+>  **Certificate Verification:** You can view my verified certificate or credentials [here](https://github.com/justiceerickson/Mycc--certificates-/blob/main/Net%20I%20Cert%208.2026%20180.pdf).
